@@ -1,1 +1,9 @@
 Immo's FCA related stuff repository
+
+The build process uses CMAKE,
+
+if you are lazy, just try
+
+>  sh ./I-am-lazy.sh
+
+
